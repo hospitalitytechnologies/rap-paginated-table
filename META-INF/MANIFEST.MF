@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RAP Widget - Table With Paging
+Bundle-SymbolicName: ru.hospitalitytechnologies.rap.widget.table
+Bundle-Version: 0.0.1.qualifier
+Bundle-Vendor: info@hospitalitytechnologies.ru
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.eclipse.rap.ui.workbench;bundle-version="2.1.0",
+ org.eclipse.rap.jface;bundle-version="2.1.0",
+ org.eclipse.rap.jface.databinding;bundle-version="2.1.0",
+ org.eclipse.rap.rwt;bundle-version="2.1.0",
+ org.eclipse.rap.ui;bundle-version="2.1.0",
+ org.eclipse.rap.ui.forms;bundle-version="2.1.0"
